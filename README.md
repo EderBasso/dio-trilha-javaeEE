@@ -7,5 +7,5 @@ Cada branch contem um projeto realizado na formação
 
 2. IW
 
-## License
+## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
